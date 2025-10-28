@@ -25,4 +25,4 @@ A simple web app that helps Taylor (a busy professional) find meal ideas based o
 ## 🔧 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Anjumanadaf/RecipeFind/edit/main/README.md
+   git clone https://github.com/Anjumanadaf/RecipeFind.
